@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: navy;
+    color: white;
+}
+
+header a{
+    color: red;
+}
+
+header img{
+    padding: 10px;
+}
+
+ header p{
+    padding: 12px;
+}
+ 
+ h1{
+     text-align: center;
+     color: black;
+     background-color: white;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ footer p{
+     color: white;
+     background-color: black;
+
+ }
+
+ footer{
+     background-color: white;
+     padding: 5px;
+ }
+
+ nav{
+     border: 1px solid gray;
+     background-color: white;
+ }
+
+nav a{
+    padding: 35px;
+    text-decoration: none;
+    color: gray;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+main p{
+    border: qpx solid red;
+    background-color: 10px;
+    background-color: brown;
+    padding: 5px;
+}
+
+.algo{
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+}
+
+h2{
+    font-size: 20px;
+    color: red
+}
+
+a{
+    border: 10px;
+    background-color: ;
+    color: green;
+    text-decoration: none;
+}
